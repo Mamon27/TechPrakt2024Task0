@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Логотип](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
 
 # Інструкція з використання Git
@@ -35,3 +36,7 @@
 - [ ] git branch
 
 **Виконав:** Ярош Володимир
+=======
+# TechPrakt2024Task0
+Tasks for practice git
+>>>>>>> 8bab91681102ffeecfb8c8e7c596d5e37dc3d990
